@@ -1,0 +1,44 @@
+[14:04:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:04:46] [ServerMain/INFO]: Loaded 1175 recipes
+[14:04:47] [ServerMain/INFO]: Loaded 1276 advancements
+[14:04:48] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[14:04:48] [Server thread/INFO]: Loading properties
+[14:04:48] [Server thread/INFO]: Default game type: SURVIVAL
+[14:04:48] [Server thread/INFO]: Generating keypair
+[14:04:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:04:49] [Server thread/INFO]: Using epoll channel type
+[14:04:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:04:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:04:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:04:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:04:50] [Server thread/INFO]: Preparing level "world"
+[14:04:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:04:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:04:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:04:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:04:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:04:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:05:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:05:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:05:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:05:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:05:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:05:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:05:03] [Server thread/INFO]: Time elapsed: 5871 ms
+[14:05:03] [Server thread/INFO]: Done (13.731s)! For help, type "help"
+[14:05:12] [Server thread/INFO]: rafcat[/127.143.125.30:47363] logged in with entity id 36 at (-102.24364671310298, 79.0, 50.79742386268105)
+[14:05:12] [Server thread/INFO]: rafcat joined the game
+[14:05:17] [Server thread/INFO]: hifese[/127.143.125.30:53929] logged in with entity id 256 at (-37.69999998807907, 62.0, -139.69999998807907)
+[14:05:17] [Server thread/INFO]: hifese joined the game
+[14:05:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5609ms or 112 ticks behind
+[14:05:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5389ms or 107 ticks behind
+[14:06:20] [Server thread/INFO]: yerkoGm12[/127.143.125.30:34675] logged in with entity id 729 at (-60.83700145370309, 67.0, -2.9688933709295178)
+[14:06:20] [Server thread/INFO]: yerkoGm12 joined the game
+[14:07:03] [Server thread/INFO]: hifese has made the advancement [Those Were the Days]
+[14:07:31] [Server thread/INFO]: hifese was slain by Piglin
+[14:11:41] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-16, y=54, z=-92} iz{x=-16, y=52, z=-92}
+[14:19:37] [Server thread/INFO]: hifese lost connection: Disconnected
+[14:19:37] [Server thread/INFO]: hifese left the game
+[14:19:50] [Server thread/INFO]: hifese[/127.143.125.30:42163] logged in with entity id 6287 at (426.5316044869477, 111.0, 34.29560338852154)
+[14:19:50] [Server thread/INFO]: hifese joined the game
