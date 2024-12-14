@@ -80,3 +80,35 @@
 [15:03:50] [Server thread/INFO]: rafcat[/127.143.125.30:44389] logged in with entity id 29375 at (-276.69999998807907, -44.0, 291.5233255639489)
 [15:03:50] [Server thread/INFO]: rafcat joined the game
 [15:04:06] [Server thread/INFO]: hifese was shot by Skeleton
+[15:06:38] [Server thread/INFO]: hifese was slain by Spider
+[15:07:26] [Server thread/INFO]: yerkoGm12[/127.143.125.30:44697] logged in with entity id 31969 at (-64.94011125442024, 64.0, -9.069480303376507)
+[15:07:26] [Server thread/INFO]: yerkoGm12 joined the game
+[15:09:46] [Server thread/INFO]: [Not Secure] <yerkoGm12> piedra
+[15:09:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-2, y=64, z=1} iz{x=-2, y=62, z=1}
+[15:10:02] [Server thread/INFO]: [Not Secure] <hifese> TIJERA
+[15:10:02] [Server thread/INFO]: [Not Secure] <yerkoGm12> papel
+[15:11:45] [Server thread/INFO]: yerkoGm12 hit the ground too hard
+[15:14:36] [Server thread/INFO]: rafcat was shot by Skeleton
+[15:15:00] [Server thread/INFO]: hifese lost connection: Disconnected
+[15:15:00] [Server thread/INFO]: hifese left the game
+[15:15:04] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
+[15:15:04] [Server thread/INFO]: yerkoGm12 left the game
+[15:15:14] [Server thread/INFO]: yerkoGm12[/127.143.125.30:33969] logged in with entity id 35540 at (38.884873975041536, 62.05821601154064, 17.984179855292716)
+[15:15:14] [Server thread/INFO]: yerkoGm12 joined the game
+[15:15:27] [Server thread/INFO]: hifese[/127.143.125.30:57273] logged in with entity id 35713 at (213.30000001192093, 60.0, 27.547910868325527)
+[15:15:27] [Server thread/INFO]: hifese joined the game
+[15:16:15] [Server thread/INFO]: yerkoGm12 fell from a high place
+[15:23:11] [Server thread/INFO]: rafcat fell from a high place
+[15:26:33] [Server thread/INFO]: hifese lost connection: Disconnected
+[15:26:33] [Server thread/INFO]: hifese left the game
+[15:27:05] [Server thread/INFO]: hifese[/127.143.125.30:51463] logged in with entity id 43710 at (1433.699999988079, 62.0, -311.6015438502061)
+[15:27:05] [Server thread/INFO]: hifese joined the game
+[15:28:55] [Server thread/INFO]: yerkoGm12 hit the ground too hard
+[15:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[15:33:41] [Server thread/INFO]: rafcat fell from a high place
+[15:37:32] [Server thread/INFO]: rafcat was blown up by Creeper
+[15:38:00] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
+[15:38:00] [Server thread/INFO]: yerkoGm12 left the game
+[15:38:04] [Server thread/INFO]: yerkoGm12[/127.143.125.30:54749] logged in with entity id 49141 at (87.38323757888543, 68.0, 15.380303946629962)
+[15:38:04] [Server thread/INFO]: yerkoGm12 joined the game
+[15:44:36] [Server thread/INFO]: rafcat was slain by Zombie
