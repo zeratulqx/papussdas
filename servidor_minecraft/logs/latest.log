@@ -1,135 +1,56 @@
-[14:04:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:04:46] [ServerMain/INFO]: Loaded 1175 recipes
-[14:04:47] [ServerMain/INFO]: Loaded 1276 advancements
-[14:04:48] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[14:04:48] [Server thread/INFO]: Loading properties
-[14:04:48] [Server thread/INFO]: Default game type: SURVIVAL
-[14:04:48] [Server thread/INFO]: Generating keypair
-[14:04:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:04:49] [Server thread/INFO]: Using epoll channel type
-[14:04:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:04:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:04:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:04:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:04:50] [Server thread/INFO]: Preparing level "world"
-[14:04:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:04:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:04:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:04:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:04:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:04:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:05:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:05:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:05:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:05:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:05:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:05:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[14:05:03] [Server thread/INFO]: Time elapsed: 5871 ms
-[14:05:03] [Server thread/INFO]: Done (13.731s)! For help, type "help"
-[14:05:12] [Server thread/INFO]: rafcat[/127.143.125.30:47363] logged in with entity id 36 at (-102.24364671310298, 79.0, 50.79742386268105)
-[14:05:12] [Server thread/INFO]: rafcat joined the game
-[14:05:17] [Server thread/INFO]: hifese[/127.143.125.30:53929] logged in with entity id 256 at (-37.69999998807907, 62.0, -139.69999998807907)
-[14:05:17] [Server thread/INFO]: hifese joined the game
-[14:05:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5609ms or 112 ticks behind
-[14:05:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5389ms or 107 ticks behind
-[14:06:20] [Server thread/INFO]: yerkoGm12[/127.143.125.30:34675] logged in with entity id 729 at (-60.83700145370309, 67.0, -2.9688933709295178)
-[14:06:20] [Server thread/INFO]: yerkoGm12 joined the game
-[14:07:03] [Server thread/INFO]: hifese has made the advancement [Those Were the Days]
-[14:07:31] [Server thread/INFO]: hifese was slain by Piglin
-[14:11:41] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-16, y=54, z=-92} iz{x=-16, y=52, z=-92}
-[14:19:37] [Server thread/INFO]: hifese lost connection: Disconnected
-[14:19:37] [Server thread/INFO]: hifese left the game
-[14:19:50] [Server thread/INFO]: hifese[/127.143.125.30:42163] logged in with entity id 6287 at (426.5316044869477, 111.0, 34.29560338852154)
-[14:19:50] [Server thread/INFO]: hifese joined the game
-[14:26:51] [Server thread/INFO]: yerkoGm12 has made the advancement [Suit Up]
-[14:31:51] [Server thread/INFO]: hifese lost connection: Disconnected
-[14:31:51] [Server thread/INFO]: hifese left the game
-[14:32:02] [Server thread/INFO]: hifese[/127.143.125.30:34573] logged in with entity id 11511 at (435.9555060494844, 44.0, 48.9830032595529)
-[14:32:02] [Server thread/INFO]: hifese joined the game
-[14:37:14] [Server thread/INFO]: hifese was doomed to fall by Skeleton
-[14:38:31] [Server thread/INFO]: yerkoGm12 has made the advancement [Isn't It Iron Pick]
-[14:39:00] [Server thread/INFO]: yerkoGm12 has made the advancement [Diamonds!]
-[14:45:49] [Server thread/INFO]: hifese has made the advancement [Cover Me with Diamonds]
-[14:47:13] [Server thread/INFO]: hifese lost connection: Disconnected
-[14:47:13] [Server thread/INFO]: hifese left the game
-[14:47:22] [Server thread/INFO]: hifese[/127.143.125.30:40477] logged in with entity id 18486 at (426.30000001192093, -38.0, -21.36486122767291)
-[14:47:22] [Server thread/INFO]: hifese joined the game
-[14:51:07] [Server thread/INFO]: yerkoGm12 was shot by Skeleton
-[14:54:34] [Server thread/INFO]: rafcat has made the advancement [Not Today, Thank You]
-[14:57:54] [Server thread/INFO]: yerkoGm12 was shot by Skeleton
-[14:58:18] [Server thread/INFO]: rafcat has made the advancement [Diamonds!]
-[14:59:30] [Server thread/INFO]: yerkoGm12 was shot by Skeleton
-[15:00:03] [Server thread/INFO]: yerkoGm12 was slain by Zombie
-[15:00:09] [Server thread/INFO]: hifese was shot by Skeleton
-[15:00:28] [Server thread/INFO]: yerkoGm12 was blown up by Creeper
-[15:01:51] [Server thread/INFO]: yerkoGm12 was slain by Spider
-[15:02:38] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
-[15:02:38] [Server thread/INFO]: yerkoGm12 left the game
-[15:02:42] [Server thread/INFO]: rafcat lost connection: Disconnected
-[15:02:42] [Server thread/INFO]: rafcat left the game
-[15:02:58] [Server thread/INFO]: rafcat[/127.143.125.30:58865] logged in with entity id 28725 at (-274.4340738679434, -42.0, 292.30000001192093)
-[15:02:58] [Server thread/INFO]: rafcat joined the game
-[15:03:16] [Server thread/INFO]: hifese was slain by Spider
-[15:03:18] [Server thread/INFO]: hifese lost connection: Disconnected
-[15:03:18] [Server thread/INFO]: hifese left the game
-[15:03:30] [Server thread/INFO]: hifese[/127.143.125.30:34613] logged in with entity id 29076 at (394.40724891022404, -34.0, -14.45984885533712)
-[15:03:30] [Server thread/INFO]: hifese joined the game
-[15:03:36] [Server thread/INFO]: rafcat lost connection: Disconnected
-[15:03:36] [Server thread/INFO]: rafcat left the game
-[15:03:50] [Server thread/INFO]: rafcat[/127.143.125.30:44389] logged in with entity id 29375 at (-276.69999998807907, -44.0, 291.5233255639489)
-[15:03:50] [Server thread/INFO]: rafcat joined the game
-[15:04:06] [Server thread/INFO]: hifese was shot by Skeleton
-[15:06:38] [Server thread/INFO]: hifese was slain by Spider
-[15:07:26] [Server thread/INFO]: yerkoGm12[/127.143.125.30:44697] logged in with entity id 31969 at (-64.94011125442024, 64.0, -9.069480303376507)
-[15:07:26] [Server thread/INFO]: yerkoGm12 joined the game
-[15:09:46] [Server thread/INFO]: [Not Secure] <yerkoGm12> piedra
-[15:09:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-2, y=64, z=1} iz{x=-2, y=62, z=1}
-[15:10:02] [Server thread/INFO]: [Not Secure] <hifese> TIJERA
-[15:10:02] [Server thread/INFO]: [Not Secure] <yerkoGm12> papel
-[15:11:45] [Server thread/INFO]: yerkoGm12 hit the ground too hard
-[15:14:36] [Server thread/INFO]: rafcat was shot by Skeleton
-[15:15:00] [Server thread/INFO]: hifese lost connection: Disconnected
-[15:15:00] [Server thread/INFO]: hifese left the game
-[15:15:04] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
-[15:15:04] [Server thread/INFO]: yerkoGm12 left the game
-[15:15:14] [Server thread/INFO]: yerkoGm12[/127.143.125.30:33969] logged in with entity id 35540 at (38.884873975041536, 62.05821601154064, 17.984179855292716)
-[15:15:14] [Server thread/INFO]: yerkoGm12 joined the game
-[15:15:27] [Server thread/INFO]: hifese[/127.143.125.30:57273] logged in with entity id 35713 at (213.30000001192093, 60.0, 27.547910868325527)
-[15:15:27] [Server thread/INFO]: hifese joined the game
-[15:16:15] [Server thread/INFO]: yerkoGm12 fell from a high place
-[15:23:11] [Server thread/INFO]: rafcat fell from a high place
-[15:26:33] [Server thread/INFO]: hifese lost connection: Disconnected
-[15:26:33] [Server thread/INFO]: hifese left the game
-[15:27:05] [Server thread/INFO]: hifese[/127.143.125.30:51463] logged in with entity id 43710 at (1433.699999988079, 62.0, -311.6015438502061)
-[15:27:05] [Server thread/INFO]: hifese joined the game
-[15:28:55] [Server thread/INFO]: yerkoGm12 hit the ground too hard
-[15:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
-[15:33:41] [Server thread/INFO]: rafcat fell from a high place
-[15:37:32] [Server thread/INFO]: rafcat was blown up by Creeper
-[15:38:00] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
-[15:38:00] [Server thread/INFO]: yerkoGm12 left the game
-[15:38:04] [Server thread/INFO]: yerkoGm12[/127.143.125.30:54749] logged in with entity id 49141 at (87.38323757888543, 68.0, 15.380303946629962)
-[15:38:04] [Server thread/INFO]: yerkoGm12 joined the game
-[15:44:36] [Server thread/INFO]: rafcat was slain by Zombie
-[15:49:14] [Server thread/INFO]: yerkoGm12 fell from a high place
-[15:49:19] [Server thread/INFO]: hifese has made the advancement [War Pigs]
-[15:50:06] [Server thread/INFO]: hifese has made the advancement [Hidden in the Depths]
-[15:52:55] [Server thread/INFO]: rafcat lost connection: Timed out
-[15:52:55] [Server thread/INFO]: rafcat left the game
-[15:52:55] [Server thread/WARN]: handleDisconnection() called twice
-[15:54:31] [Server thread/INFO]: rafcat[/127.143.125.30:40553] logged in with entity id 56080 at (-31.05846303077595, 51.0, 143.9159840720836)
-[15:54:31] [Server thread/INFO]: rafcat joined the game
-[15:58:52] [Server thread/WARN]: yerkoGm12 moved too quickly! -1.861774620377055,-1.1661092609382138,9.758454498980786
-[15:58:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8369ms or 167 ticks behind
-[16:00:41] [Server thread/INFO]: hifese lost connection: Disconnected
-[16:00:41] [Server thread/INFO]: hifese left the game
-[16:00:53] [Server thread/INFO]: hifese[/127.143.125.30:43205] logged in with entity id 58956 at (3865.5174047769424, 63.0, -3922.444721812837)
-[16:00:53] [Server thread/INFO]: hifese joined the game
-[16:05:13] [Server thread/INFO]: rafcat lost connection: Disconnected
-[16:05:13] [Server thread/INFO]: rafcat left the game
-[16:05:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@1fc461a1[id=a4426d6e-1718-3b87-a9a6-4fbcff5cc5c4,name=rafcat,properties={}] lost connection: Disconnected
-[16:05:27] [Server thread/INFO]: rafcat[/127.143.125.30:45855] logged in with entity id 61474 at (-315.9944275607745, 82.0, 229.39483001265523)
-[16:05:27] [Server thread/INFO]: rafcat joined the game
-[16:05:29] [Server thread/INFO]: hifese has made the advancement [Who is Cutting Onions?]
-[16:06:21] [Server thread/INFO]: yerkoGm12 fell from a high place
+[16:15:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:15:57] [ServerMain/INFO]: Loaded 1175 recipes
+[16:15:57] [ServerMain/INFO]: Loaded 1276 advancements
+[16:15:58] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[16:15:58] [Server thread/INFO]: Loading properties
+[16:15:58] [Server thread/INFO]: Default game type: SURVIVAL
+[16:15:58] [Server thread/INFO]: Generating keypair
+[16:15:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:15:58] [Server thread/INFO]: Using epoll channel type
+[16:15:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:15:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:15:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:15:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:15:59] [Server thread/INFO]: Preparing level "world"
+[16:16:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:16:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:16:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:16:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:16:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:16:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:16:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:16:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:16:09] [Server thread/INFO]: Time elapsed: 3170 ms
+[16:16:09] [Server thread/INFO]: Done (10.832s)! For help, type "help"
+[16:17:40] [Server thread/INFO]: hifese[/127.143.125.30:42959] logged in with entity id 2 at (3600.080724773557, 66.0, -3411.8185626738446)
+[16:17:40] [Server thread/INFO]: hifese joined the game
+[16:17:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2336ms or 46 ticks behind
+[16:19:45] [Server thread/INFO]: yerkoGm12[/127.143.125.30:47527] logged in with entity id 895 at (-52.78988167494144, 68.0, 5.1875985058344956)
+[16:19:45] [Server thread/INFO]: yerkoGm12 joined the game
+[16:19:54] [Server thread/INFO]: hifese lost connection: Disconnected
+[16:19:54] [Server thread/INFO]: hifese left the game
+[16:19:58] [Server thread/INFO]: hifese[/127.143.125.30:42149] logged in with entity id 1151 at (3439.523645940141, 64.0, -3372.300000011921)
+[16:19:58] [Server thread/INFO]: hifese joined the game
+[16:20:47] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
+[16:20:47] [Server thread/INFO]: yerkoGm12 left the game
+[16:31:11] [Server thread/INFO]: yerkoGm12[/127.143.125.30:49725] logged in with entity id 7004 at (-58.234606861938396, 67.0, 6.711173275378565)
+[16:31:11] [Server thread/INFO]: yerkoGm12 joined the game
+[16:31:22] [Server thread/INFO]: hifese lost connection: Disconnected
+[16:31:22] [Server thread/INFO]: hifese left the game
+[16:31:25] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
+[16:31:25] [Server thread/INFO]: yerkoGm12 left the game
+[16:31:29] [Server thread/INFO]: hifese[/127.143.125.30:52557] logged in with entity id 7257 at (2138.579550606735, 62.110764312744145, -2084.1705231510496)
+[16:31:29] [Server thread/INFO]: hifese joined the game
+[16:34:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2430ms or 48 ticks behind
+[16:38:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3430ms or 68 ticks behind
+[16:48:13] [Server thread/INFO]: hifese was shot by Pillager
+[16:48:50] [Server thread/INFO]: hifese drowned
+[16:49:18] [Server thread/INFO]: hifese suffocated in a wall
+[16:49:51] [Server thread/INFO]: hifese suffocated in a wall
+[16:50:23] [Server thread/INFO]: yerkoGm12[/127.143.125.30:60079] logged in with entity id 13115 at (-51.5, 67.0, -8.5)
+[16:50:23] [Server thread/INFO]: yerkoGm12 joined the game
+[16:50:38] [Server thread/INFO]: yerkoGm12 was shot by Pillager
+[16:52:45] [Server thread/INFO]: hifese lost connection: Disconnected
+[16:52:45] [Server thread/INFO]: hifese left the game
+[16:52:45] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
+[16:52:45] [Server thread/INFO]: yerkoGm12 left the game
