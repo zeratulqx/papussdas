@@ -10,12 +10,14 @@
       "minecraft:beach": "2024-12-13 22:29:10 +0000",
       "minecraft:dark_forest": "2024-12-13 22:17:25 +0000",
       "minecraft:forest": "2024-12-13 22:28:45 +0000",
-      "minecraft:cherry_grove": "2024-12-13 23:39:48 +0000",
       "minecraft:river": "2024-12-13 22:26:41 +0000",
+      "minecraft:stony_shore": "2024-12-13 22:33:28 +0000",
+      "minecraft:lush_caves": "2024-12-14 14:42:14 +0000",
+      "minecraft:dripstone_caves": "2024-12-13 23:08:11 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-14 14:49:58 +0000",
+      "minecraft:cherry_grove": "2024-12-13 23:39:48 +0000",
       "minecraft:meadow": "2024-12-13 22:54:23 +0000",
       "minecraft:birch_forest": "2024-12-13 21:26:57 +0000",
-      "minecraft:stony_shore": "2024-12-13 22:33:28 +0000",
-      "minecraft:dripstone_caves": "2024-12-13 23:08:11 +0000",
       "minecraft:savanna": "2024-12-13 22:33:26 +0000",
       "minecraft:plains": "2024-12-13 22:29:37 +0000"
     },
@@ -326,12 +328,14 @@
       "mutton": "2024-12-13 22:58:32 +0000",
       "chicken": "2024-12-13 21:55:58 +0000",
       "bread": "2024-12-13 22:47:58 +0000",
+      "cooked_chicken": "2024-12-14 14:44:57 +0000",
       "rotten_flesh": "2024-12-13 21:39:41 +0000",
       "cooked_mutton": "2024-12-13 22:07:06 +0000",
       "salmon": "2024-12-13 23:42:36 +0000",
       "cooked_beef": "2024-12-13 21:40:35 +0000",
       "beef": "2024-12-13 21:43:09 +0000",
-      "porkchop": "2024-12-13 23:00:28 +0000"
+      "porkchop": "2024-12-13 23:00:28 +0000",
+      "cooked_salmon": "2024-12-14 14:48:05 +0000"
     },
     "done": false
   },
@@ -1652,6 +1656,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-14 14:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-14 14:45:49 +0000"
     },
     "done": true
   },
