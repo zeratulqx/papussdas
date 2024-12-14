@@ -79,3 +79,24 @@ Reason: Banned by an operator.
 [18:16:58] [Server thread/INFO]: hifese (/127.143.125.30:42581) lost connection: You are banned from this server.
 Reason: Banned by an operator.
 [18:16:58] [Server thread/WARN]: handleDisconnection() called twice
+[18:17:11] [Server thread/INFO]: Disconnecting hifese (/127.143.125.30:59409): You are banned from this server.
+Reason: Banned by an operator.
+[18:17:11] [Server thread/INFO]: hifese (/127.143.125.30:59409) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[18:17:11] [Server thread/WARN]: handleDisconnection() called twice
+[18:17:13] [Server thread/INFO]: Disconnecting hifese (/127.143.125.30:41681): You are banned from this server.
+Reason: Banned by an operator.
+[18:17:13] [Server thread/INFO]: hifese (/127.143.125.30:41681) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[18:17:14] [Server thread/WARN]: handleDisconnection() called twice
+[18:17:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:17:28] [Server thread/INFO]: parrpardon hifpardon hifese<--[HERE]
+[18:17:34] [Server thread/INFO]: Unbanned hifese
+[18:17:37] [Server thread/INFO]: hifese[/127.143.125.30:49167] logged in with entity id 22080 at (344.56485948041205, 63.0, -366.2531115903959)
+[18:17:37] [Server thread/INFO]: hifese joined the game
+[18:20:28] [Server thread/INFO]: rafcat[/127.143.125.30:44357] logged in with entity id 22709 at (-95.5, 79.0, 53.5)
+[18:20:28] [Server thread/INFO]: rafcat joined the game
+[18:26:04] [Server thread/INFO]: rafcat lost connection: Disconnected
+[18:26:04] [Server thread/INFO]: rafcat left the game
+[18:26:20] [Server thread/INFO]: rafcat[/127.143.125.30:59333] logged in with entity id 24867 at (-2.1360922390596264, 23.0, 142.30000001192093)
+[18:26:20] [Server thread/INFO]: rafcat joined the game
