@@ -342,8 +342,10 @@
       "salmon": "2024-12-13 23:42:36 +0000",
       "cooked_beef": "2024-12-13 21:40:35 +0000",
       "beef": "2024-12-13 21:43:09 +0000",
+      "baked_potato": "2024-12-14 19:28:54 +0000",
       "porkchop": "2024-12-13 23:00:28 +0000",
       "golden_carrot": "2024-12-14 15:51:02 +0000",
+      "apple": "2024-12-14 19:25:07 +0000",
       "cooked_chicken": "2024-12-14 14:44:57 +0000",
       "mushroom_stew": "2024-12-14 15:16:16 +0000",
       "cooked_salmon": "2024-12-14 14:48:05 +0000"
@@ -2230,6 +2232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-14 19:25:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-14 18:28:43 +0000"
@@ -2263,6 +2271,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-14 18:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-14 19:34:05 +0000"
     },
     "done": true
   },

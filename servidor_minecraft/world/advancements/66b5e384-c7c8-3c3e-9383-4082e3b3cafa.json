@@ -10,6 +10,7 @@
       "minecraft:beach": "2024-12-14 18:47:44 +0000",
       "minecraft:dark_forest": "2024-12-13 22:08:28 +0000",
       "minecraft:forest": "2024-12-13 21:31:05 +0000",
+      "minecraft:sparse_jungle": "2024-12-14 19:18:24 +0000",
       "minecraft:deep_ocean": "2024-12-14 19:01:40 +0000",
       "minecraft:river": "2024-12-13 21:52:42 +0000",
       "minecraft:lukewarm_ocean": "2024-12-14 19:12:54 +0000",
@@ -20,7 +21,8 @@
       "minecraft:ocean": "2024-12-14 18:51:29 +0000",
       "minecraft:meadow": "2024-12-13 21:31:08 +0000",
       "minecraft:birch_forest": "2024-12-13 21:26:58 +0000",
-      "minecraft:plains": "2024-12-13 21:49:26 +0000"
+      "minecraft:plains": "2024-12-13 21:49:26 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-14 19:20:09 +0000"
     },
     "done": false
   },
@@ -457,6 +459,7 @@
       "rotten_flesh": "2024-12-13 21:43:53 +0000",
       "suspicious_stew": "2024-12-14 19:10:17 +0000",
       "cooked_mutton": "2024-12-13 23:01:37 +0000",
+      "cooked_cod": "2024-12-14 19:24:21 +0000",
       "cooked_beef": "2024-12-13 21:38:18 +0000",
       "beef": "2024-12-13 21:40:55 +0000",
       "porkchop": "2024-12-13 21:50:13 +0000",
@@ -2009,6 +2012,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2024-12-14 19:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-14 19:17:05 +0000"
     },
     "done": true
   },
