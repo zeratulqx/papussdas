@@ -296,6 +296,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-14 16:50:09 +0000",
       "minecraft:skeleton": "2024-12-13 21:37:25 +0000",
+      "minecraft:piglin": "2024-12-14 18:00:48 +0000",
       "minecraft:enderman": "2024-12-13 21:46:09 +0000",
       "minecraft:spider": "2024-12-13 23:29:02 +0000",
       "minecraft:zombie": "2024-12-13 21:39:33 +0000",
@@ -2142,6 +2143,48 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2024-12-14 17:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-14 18:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-14 18:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-14 18:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-14 18:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-14 18:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-14 18:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-14 18:00:57 +0000"
     },
     "done": true
   },
