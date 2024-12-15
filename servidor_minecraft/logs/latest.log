@@ -60,3 +60,13 @@
 [13:36:55] [Server thread/INFO]: rafcat joined the game
 [13:37:14] [Server thread/INFO]: yerkoGm12 discovered the floor was lava
 [13:42:06] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-83, y=64, z=-32} iz{x=-117, y=65, z=-19}
+[13:48:14] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
+[13:48:14] [Server thread/INFO]: yerkoGm12 left the game
+[13:48:53] [Server thread/INFO]: rafcat lost connection: Disconnected
+[13:48:53] [Server thread/INFO]: rafcat left the game
+[13:48:59] [Server thread/INFO]: yerkoGm12[/127.143.125.30:40663] logged in with entity id 28171 at (651.7370449976701, -46.0, 1.3907644133561334)
+[13:48:59] [Server thread/INFO]: yerkoGm12 joined the game
+[13:49:01] [Server thread/INFO]: rafcat[/127.143.125.30:49507] logged in with entity id 28394 at (-33.30000001192093, 10.0, 799.6999999880791)
+[13:49:01] [Server thread/INFO]: rafcat joined the game
+[13:50:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-14, y=85, z=-33} iz{x=-15, y=85, z=-33}
+[13:52:46] [Server thread/INFO]: rafcat fell from a high place
