@@ -463,6 +463,7 @@
       "cooked_cod": "2024-12-14 19:24:21 +0000",
       "cooked_beef": "2024-12-13 21:38:18 +0000",
       "beef": "2024-12-13 21:40:55 +0000",
+      "baked_potato": "2024-12-15 17:12:32 +0000",
       "porkchop": "2024-12-13 21:50:13 +0000",
       "cooked_salmon": "2024-12-14 14:44:08 +0000"
     },
@@ -2217,6 +2218,18 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-15 15:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-15 17:11:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-15 17:11:11 +0000"
     },
     "done": true
   },
