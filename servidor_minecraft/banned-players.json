@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "uuid": "e88ee2d3-4220-3d0e-b50f-ac9d501b40f5",
+    "name": "yekogm12",
+    "created": "2024-12-15 15:16:17 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "66b5e384-c7c8-3c3e-9383-4082e3b3cafa",
+    "name": "yerkoGm12",
+    "created": "2024-12-15 15:16:33 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

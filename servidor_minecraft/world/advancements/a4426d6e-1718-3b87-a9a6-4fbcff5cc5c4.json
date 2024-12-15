@@ -1219,7 +1219,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-13 23:40:41 +0000",
-      "minecraft:nether_wastes": "2024-12-13 23:53:36 +0000"
+      "minecraft:nether_wastes": "2024-12-13 23:53:36 +0000",
+      "minecraft:warped_forest": "2024-12-15 15:08:33 +0000"
     },
     "done": false
   },
