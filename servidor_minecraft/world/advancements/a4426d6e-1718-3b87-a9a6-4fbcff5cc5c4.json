@@ -630,6 +630,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2024-12-15 13:40:53 +0000",
       "minecraft:skeleton": "2024-12-13 21:41:31 +0000",
       "minecraft:spider": "2024-12-13 21:43:44 +0000",
       "minecraft:zombie": "2024-12-13 21:41:35 +0000",
@@ -1997,6 +1998,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2024-12-15 13:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-15 13:45:17 +0000"
     },
     "done": true
   },
