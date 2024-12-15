@@ -391,6 +391,8 @@
       "minecraft:pillager": "2024-12-13 23:53:08 +0000",
       "minecraft:cave_spider": "2024-12-14 14:32:42 +0000",
       "minecraft:skeleton": "2024-12-13 21:45:15 +0000",
+      "minecraft:zombified_piglin": "2024-12-15 17:29:12 +0000",
+      "minecraft:enderman": "2024-12-15 17:33:20 +0000",
       "minecraft:spider": "2024-12-13 21:37:37 +0000",
       "minecraft:zombie": "2024-12-13 21:39:12 +0000",
       "minecraft:creeper": "2024-12-13 22:43:40 +0000",
@@ -456,16 +458,18 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-13 21:40:39 +0000",
-      "apple": "2024-12-15 17:22:52 +0000",
       "golden_apple": "2024-12-15 15:29:49 +0000",
+      "bread": "2024-12-15 17:36:27 +0000",
       "rotten_flesh": "2024-12-13 21:43:53 +0000",
       "suspicious_stew": "2024-12-14 19:10:17 +0000",
       "cooked_mutton": "2024-12-13 23:01:37 +0000",
-      "cooked_cod": "2024-12-14 19:24:21 +0000",
       "cooked_beef": "2024-12-13 21:38:18 +0000",
       "beef": "2024-12-13 21:40:55 +0000",
       "baked_potato": "2024-12-15 17:12:32 +0000",
       "porkchop": "2024-12-13 21:50:13 +0000",
+      "apple": "2024-12-15 17:22:52 +0000",
+      "cooked_cod": "2024-12-14 19:24:21 +0000",
+      "cod": "2024-12-15 17:32:47 +0000",
       "cooked_salmon": "2024-12-14 14:44:08 +0000"
     },
     "done": false
@@ -2222,6 +2226,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-15 17:11:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-15 17:11:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2024-12-15 17:23:56 +0000"
@@ -2231,12 +2247,6 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-15 17:23:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2024-12-15 17:11:11 +0000"
     },
     "done": true
   },
@@ -2252,9 +2262,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_bone_meal": "2024-12-15 17:11:11 +0000"
+      "entered_nether": "2024-12-15 17:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-15 17:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-15 17:27:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-15 17:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-15 17:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-15 17:29:13 +0000"
     },
     "done": true
   },
