@@ -2016,5 +2016,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-15 15:20:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:spotted": "2024-12-15 15:20:17 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3839
 }
